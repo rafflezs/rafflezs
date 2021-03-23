@@ -7,7 +7,7 @@ sou desenvolvedor mobile nativo e entusiasta em segurança e pentesting.
 
 ## :computer: Projetos em andamento
 
-No momento estou estudando/desenvolvendo minha pesquisa na área de Pesquisa Operacional. Segue à seguir alguns projetos para descontrair:
+No momento estou estudando/desenvolvendo minha pesquisa na área de Pesquisa Operacional. Segue abaixo no entanto alguns projetos para descontrair:
 
 - DSTLib: Biblioteca para C/C++ com diversos tipos de dados abstratos, com interface para uso.
 - App Spotify (clone nativo): App para aprendizado nativo, sem uso de wrappers.
