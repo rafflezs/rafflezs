@@ -1,32 +1,30 @@
 # PT-BR 🇧🇷
 
-Olá, meu nome é Thiago Rafael (ou @rafflez[s] web afora). Sou estudante de Ciências da Computação e Pesquisador Acadêmico.
+Só um Cientista da Computação atuando como Analista de Dados Pleno. Quando eu estou trabalhando eu pessoalmente gosto de tudo que envolve engenharia e extração de dados, quando eu estou brincando de programar eu gosto bastante de Pentesting, Embarcados e tudo que C++ puder me proporcionar, mas quando estou longe do computador gosto mesmo é tocar grama.
 
-Sou defensor fervoroso de linguagens de baixo nível e de reinventar a roda para aprender conceitos, mas nas horas vagas
-sou desenvolvedor mobile nativo e entusiasta em segurança e pentesting.
+## :computer: Alguns projetos
 
-## :computer: Projetos em andamento
+Alguns projetos abertos que podem lhe interessar:
 
-No momento estou estudando/desenvolvendo minha pesquisa na área de Pesquisa Operacional. Segue abaixo no entanto alguns projetos para descontrair:
+- DSTLib: Biblioteca de Estrutura de Dados e templates em C/C++.
+- TCC-Heuristica: meu projeto de TCC. Uma *engine* para alocação de horários de aulas utilizando uma série de Heurísticas próprias, a maioria gulosa.
+- GameEngine: Uma *engine* de jogos em C++, baseada no projeto do [@Cherno] (https://github.com/TheCherno)
 
-- DSTLib: Biblioteca para C/C++ com diversos tipos de dados abstratos, com interface para uso.
-- App Spotify (clone nativo): App para aprendizado nativo, sem uso de wrappers.
-- Tentando ter paciência pra estudar front-end.
+(Como eu não corro atrás de pontos ficticios de internet pra agradar Engenheiros de Software, provavelmente boa parte dos meus projetos estão privados.)
 
-### :speech_balloon: Caso tenha se interessado, meu contato está ali na bio.
+### :speech_balloon: Meu contato profissional se encontra na bio do perfil.
 
 # EN 🇺🇸
 
-Hi there, my name is Thiago Rafael (or @rafflez[s] as my obligatory web-name). I'm a Computer Scientist in progress and Academic Researcher.
+Just a Computer Scientist working as a Data Analyst. When I'm working, I personally enjoy everything related to data engineering and extraction. When I'm programming for fun, I really like Pentesting, Embedded Systems, and everything that C++ can provide me, but when I'm away from the computer, I really enjoy touching grass.
 
-I like to consider myself as a defender of low-level programing language and native developer in my spare time (as well a pentest/security enthusiast).
+## :computer: Some Projects
+Here are some open projects that might interest you:
 
-## :computer: Projects in progress
+- DSTLib: A library of data structures and templates in C/C++.
+- TCC-Heuristica: my undergraduate thesis project. An engine for scheduling classes using a series of proprietary heuristics, mostly greedy.
+- GameEngine: A game engine in C++, based on the [@Cherno] (https://github.com/TheCherno) project.
 
-At the moment I'm putting all my efforts on my research papers, so I only produce these in my little free time:
+(Since I don't chase imaginary internet points to please Software Engineers, most of my projects are probably private.)
 
-- DSTLib: C/C++ Library containing multiple Abstract Data Types, with interface implementation.
-- App Spotify (native-clone): Forcing myself to learn without use of wrappers.
-- Trying to convince myself that I should learn front-end.
-
-### :speech_balloon: If you're interested, you can contact me using any media placed in the biography.
+### :speech_balloon: Contact me through the mail right there, go on, don't be shy.
