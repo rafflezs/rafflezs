@@ -1,30 +1,23 @@
-# PT-BR 🇧🇷
+# 🙋‍♂️ About Me
 
-Só um Cientista da Computação atuando como Analista de Dados Pleno. Quando eu estou trabalhando eu pessoalmente gosto de tudo que envolve engenharia e extração de dados, quando eu estou brincando de programar eu gosto bastante de Pentesting, Embarcados e tudo que C++ puder me proporcionar, mas quando estou longe do computador gosto mesmo é tocar grama.
+sup' people,
 
-## :computer: Alguns projetos
+- I'm a brazilian sysadmin (with lots of network analyst tasks on my back)...
+- ...and a offsec enthusiast.
+- Most of my projects are personal stuff, cause I won't in my right mind commit work stuff publicly;
+- I'm really into C and C++
+- Me like Open Source Projects, me wanna see Open Source thrive
+- 
 
-Alguns projetos abertos que podem lhe interessar:
+# <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" /> Tech Stack
 
-- DSTLib: Biblioteca de Estrutura de Dados e templates em C/C++.
-- TCC-Heuristica: meu projeto de TCC. Uma *engine* para alocação de horários de aulas utilizando uma série de Heurísticas próprias, a maioria gulosa.
-- GameEngine: Uma *engine* de jogos em C++, baseada no projeto do [@Cherno] (https://github.com/TheCherno)
+Here's some of the tech I use daily
 
-(Como eu não corro atrás de pontos ficticios de internet pra agradar Engenheiros de Software, provavelmente boa parte dos meus projetos estão privados.)
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /> <img img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="40" height="40" />
+          
 
-### :speech_balloon: Meu contato profissional se encontra na bio do perfil.
 
-# EN 🇺🇸
+### 💬 Contact
 
-Just a Computer Scientist working as a Data Analyst. When I'm working, I personally enjoy everything related to data engineering and extraction. When I'm programming for fun, I really like Pentesting, Embedded Systems, and everything that C++ can provide me, but when I'm away from the computer, I really enjoy touching grass.
+📫 rafflezs@protonmail.com
 
-## :computer: Some Projects
-Here are some open projects that might interest you:
-
-- DSTLib: A library of data structures and templates in C/C++.
-- TCC-Heuristica: my undergraduate thesis project. An engine for scheduling classes using a series of proprietary heuristics, mostly greedy.
-- GameEngine: A game engine in C++, based on the [@Cherno] (https://github.com/TheCherno) project.
-
-(Since I don't chase imaginary internet points to please Software Engineers, most of my projects are probably private.)
-
-### :speech_balloon: Contact me through the mail right there, go on, don't be shy.
