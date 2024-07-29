@@ -21,7 +21,7 @@ Here's some sutff I'm working
 
 #### Research/Academic Projects
 - [x] Metaheuristic timetabling engine 
-- [ ] :pushpinmost: Physician Scheduling
+- [ ] Physician Scheduling :pushpinmost:
 - [x] Simplex Solver
 - [x] Barrier Method Solver 
 #### Data Projects
