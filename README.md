@@ -2,12 +2,11 @@
 
 sup' people,
 
-- 🇧🇷 I'm a brazilian sysadmin (with lots of network analyst tasks on my back)...
--  ...and a offsec certificate (currently DCPT by DESEC )...;
-- 📑 ... and academic researcher!
-- 🔒 Most of my projects are personal stuff, cause I won't in my right mind commit work stuff publicly;
-- 🤖 I'm really into automation and electronics;
-- ⚒️ Me like Open Source Projects, me wanna see Open Source thrive.
+- 🇧🇷 I'm a brazilian academic researcher @ USP-ICMC
+- :bookmark_tabs: my career background consists on SysAdmin and Data Analysis...
+- ...(with some Mobile Freelancing on darker times)
+- :octocat: of my projects are Data/Security related
+- :pushpinmost: right now I'm currently working on my Physician Schedule research
 
 ---
 # <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60" /> Tech Stack
@@ -20,13 +19,21 @@ Here's some of the tech I use daily
 
 Here's some sutff I'm working
 
+#### Research/Academic Projects
 - [x] Metaheuristic timetabling engine 
-- [ ] DNS Resolver
-- [ ] Remote server monitoring tool
-- [ ] Server stress tools
-- [ ] NAS Organizer
-- Other stuff I'm planning
+- [ ] :pushpinmost: Physician Scheduling
+- [x] Simplex Solver
+- [x] Barrier Method Solver 
+#### Data Projects
+- [ ] Web Content Analysis
+- [ ] Video Automation
+- [ ] Some Kaggle bullshit
 
+#### Homelab Project
+- [x] DNS Resolver (test project)
+- [x] Remote server monitoring tool
+- [x] Server stress tools
+- [ ] NAS Organizer
 ---
 # 💬 Contact
 
