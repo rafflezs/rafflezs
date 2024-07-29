@@ -15,25 +15,27 @@ Here's some of the tech I use daily
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" /> <img img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" width="40" height="40" />
           
-## 📝 Projects
+## 📝 Relevant Projects
 
-Here's some sutff I'm working
+Here's some sutff I'm working on, am proud of, or maybe just want to babble about
 
 #### Research/Academic Projects
+- [ ] Physician Scheduling
 - [x] Metaheuristic timetabling engine 
-- [ ] Physician Scheduling :pushpinmost:
 - [x] Simplex Solver
 - [x] Barrier Method Solver 
 #### Data Projects
 - [ ] Web Content Analysis
 - [ ] Video Automation
 - [ ] Some Kaggle bullshit
-
-#### Homelab Project
+#### Homelab Projects
 - [x] DNS Resolver (test project)
 - [x] Remote server monitoring tool
 - [x] Server stress tools
 - [ ] NAS Organizer
+#### Other Stuff
+- (DISCONTINUED) C Data Basic Data Structures: Maybe some day I will finish (or revamp) it.
+- (DISCONTINUED) Game Engine: Don't have time to meddle with it anymore
 ---
 # 💬 Contact
 
